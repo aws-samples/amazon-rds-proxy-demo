@@ -35,7 +35,7 @@ In this demo you will do the following:
 From the AWS console select RDS service and click Create Database. Choose the default options for the creation method, engine options and Edition. For version select the highest version Aurora (MySQL 5.7) 2.07.1 as shown on the screenshot below:
 
 <p align="left">
-  <img width="600" height="300" src="https://github.com/aws-samples/amazon-rds-proxy-demo/blob/master/images/rds1.png">
+  <img width="500" height="300" src="https://github.com/aws-samples/amazon-rds-proxy-demo/blob/master/images/rds1.png">
 </p>
 
 Provide a name to your DB cluster and a master username and password.  
